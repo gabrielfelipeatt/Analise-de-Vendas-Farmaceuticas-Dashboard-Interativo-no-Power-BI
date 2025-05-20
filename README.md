@@ -68,7 +68,7 @@ O dashboard foi organizado em seções:
 
 | Visão Geral |
 |------------|
-| ![dashboard](./imagens/dashboard_geral.png) |
+| ![dashboard](./imagens/dashboard_geral.PNG) |
 
 ---
 
